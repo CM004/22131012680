@@ -10,7 +10,10 @@ The project consists of three main components:
 - `backend-test-submission/`: Node.js (Express) app for URL shortening
 - `frontend-test-submission/`: React app for UI with Material UI
 
-## Architecture
+## Screenshot
+<img width="1470" alt="Screenshot 2025-06-27 at 4 43 03 PM" src="https://github.com/user-attachments/assets/ba9e4f47-fb39-43d7-88c1-b8a24c165227" />
+
+
 
 ### Logging Middleware
 
