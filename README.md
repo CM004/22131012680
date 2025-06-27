@@ -14,7 +14,7 @@ The project consists of three main components:
 <img width="1470" alt="Screenshot 2025-06-27 at 4 43 03 PM" src="https://github.com/user-attachments/assets/ba9e4f47-fb39-43d7-88c1-b8a24c165227" />
 
 
-
+## Architecture
 ### Logging Middleware
 
 The logging middleware provides a reusable `log()` function that makes API calls to the Test Server's logging endpoint. It validates the input parameters and ensures they adhere to the constraints specified in the requirements.
