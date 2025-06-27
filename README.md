@@ -13,6 +13,11 @@ The project consists of three main components:
 ## Screenshot
 <img width="1470" alt="Screenshot 2025-06-27 at 4 43 03 PM" src="https://github.com/user-attachments/assets/ba9e4f47-fb39-43d7-88c1-b8a24c165227" />
 
+<img width="1470" alt="Screenshot 2025-06-27 at 5 03 53 PM" src="https://github.com/user-attachments/assets/d5db2c5d-08b0-4b95-a148-d3831a98e47b" />
+
+
+
+
 
 ## Architecture
 ### Logging Middleware
